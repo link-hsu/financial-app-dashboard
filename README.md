@@ -1,6 +1,6 @@
-<h1 align="center">Groupbuy Shopping project 💹 🚀🚀🚀</h1>
+<h1 align="center">Finalcial App Dashboard 💹 🚀🚀🚀</h1>
 
-- Groupbuy Shopping is a demo SPA front-end project for displaying to groupbuy needing customers.
+- Using React(TS), Material UI, Recharts, Redux Toolkit to build a Financial App Dashboard that has 10 more charts, data grids, and regression prediction chart for front-end main page. For the backend Node.js is runtime, Express.js is backend framework, and MongoDB for database.
 
 🔗 URL: https://financial-app-dashboard.vercel.app/
 
